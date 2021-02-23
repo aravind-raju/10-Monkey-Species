@@ -121,9 +121,14 @@ venv.bak/
 /site
 
 # mypy
+.ipynb_checkpoints
 .mypy_cache/
 .dmypy.json
 dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#folders
+data
+lightning_logs
